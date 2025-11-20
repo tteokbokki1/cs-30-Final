@@ -2,30 +2,30 @@
 
 ## Description 
 
-- Zelda or Scribl(a game in which a player gets a word and must draw it while others attempt to guess it)
+- Scribl(a game in which a player gets a word and must draw it while others attempt to guess it)
+- Stick man game where two players can 1v1 with various weapons
+- Plinko
 
-## Needs to have (zelda)
+## needs to have
+- collision
+- points
+- somethings to spend points on
 
-- Way to attack
-- Swapping between sceens as one goes through the world
-- Enemies and their projectiles
-- Usage of items (hearts, ruppies, bombs)
-- Bosses
 ## Needs to have (Scribl)
 
 - Online function
 - canvas and drawing
 - Guessing function
 
-## Nice to have (Zelda)
+## Needs to have (stickman)
 
-- Animations
-- complete world
-- improved enemy ai
-- breakable walls
-- changing of weapons throughout the game
-- shield
-- Map
+- the stick man
+- ability to hit each other
+- a map(s)
+
+## nice to have
+- good graphics
+- a good ui
 
 ## Nice to have (Scribl)
 
@@ -35,3 +35,10 @@
 - actual graphic
 - either a limited selection of colors or unlimited depending on which I think is more interesting
 - A way to customize your avatar as a player
+
+## nice to have (stickman)
+
+- more weapons
+- more maps
+- working physics
+- cosmetics
